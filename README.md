@@ -1,4 +1,4 @@
-# Connect to MSSQL Server Using pyodbc driver
+# How to connect to MSSQL Server Using pyodbc driver
 
 Using pyodbc drive to query data from SQL Server database and load it into Pandas dataframe
 
